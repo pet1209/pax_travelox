@@ -79,7 +79,7 @@ export const Footer = () => {
                 <MapPin className="text-primary" /> 15/B Road, New York, USA
               </p>
               <p className="inline-flex gap-x-2 text-gray-400 hover:text-gray-200 dark:text-neutral-400 dark:hover:text-neutral-200">
-                <Phone className="text-primary" /> +2 123 4567 897
+                <Phone className="text-primary" /> +1 2036334790
               </p>
               <p className="inline-flex gap-x-2 text-gray-400 hover:text-gray-200 dark:text-neutral-400 dark:hover:text-neutral-200">
                 <Mail className="text-primary" /> email protected
