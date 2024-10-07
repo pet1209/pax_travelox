@@ -50,7 +50,7 @@ export default function GuideSingle() {
                             use.
                           </p>
                           <p className="mt-6 gap-x-2 inline-flex text-gray-600 dark:text-neutral-400">
-                            <Phone className="text-primary" /> +2 123 4567 897
+                            <Phone className="text-primary" /> +1 2036334790
                           </p>
                           <p className="mt-3 gap-x-2 inline-flex text-gray-600 dark:text-neutral-400">
                             <Mail className="text-primary" /> email protected
