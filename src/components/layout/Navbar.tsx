@@ -77,7 +77,7 @@ export default function NavBar() {
               <span className="sr-only">Acme Inc</span>
             </Link> */}
           <Link className="inline-flex items-center" href="#">
-            <Phone className="size- mx-2" /> +2 123 4567 897
+            <Phone className="size- mx-2" /> +1 2036334790
           </Link>
           <Link className="inline-flex items-center" href="#">
             <Mail className="size-4 mx-2" /> email protected
